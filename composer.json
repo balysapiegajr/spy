@@ -1,0 +1,9 @@
+{
+    "require": {
+        "rakibtg/sleekdb": "^2.13",
+        "sebastian/diff": "^4.0",
+        "guzzlehttp/guzzle": "^7.4",
+        "fabpot/goutte": "^4.0",
+        "vlucas/phpdotenv": "^5.4"
+    }
+}

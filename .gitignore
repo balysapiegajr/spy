@@ -1,0 +1,5 @@
+/vendor
+.env
+wp-config.php
+/db/*/cache
+/dbadmin
